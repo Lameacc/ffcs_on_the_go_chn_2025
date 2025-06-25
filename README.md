@@ -1,5 +1,9 @@
 # FFCS On The Go
 
+THIS IS NOT MINE I JUST UPDATED THE LIST AND MADE A FEW ALTERATIONS 
+originally its from the author mentioned below in the page.
+Thank you.
+
 [![Netlify Status](https://img.shields.io/netlify/6d48d2f4-8dc7-4780-ae32-e8da62053826)](https://app.netlify.com/sites/ffcsonthego/deploys) ![Last Update - Vellore](https://img.shields.io/badge/dynamic/json?color=blue&label=vellore&query=$.lastUpdate.vellore&url=https://raw.githubusercontent.com/vatz88/FFCSonTheGo/master/package.json) ![Last Update - Chennai](https://img.shields.io/badge/dynamic/json?color=blue&label=chennai&query=$.lastUpdate.chennai&url=https://raw.githubusercontent.com/vatz88/FFCSonTheGo/master/package.json) ![Last Update - AP](https://img.shields.io/badge/dynamic/json?color=blue&label=ap&query=$.lastUpdate.ap&url=https://raw.githubusercontent.com/vatz88/FFCSonTheGo/master/package.json) [![License](https://img.shields.io/github/license/vatz88/FFCSonTheGo)](/LICENSE.md)
 
 This web application is a tool to visualize your timetable for the students of VIT Vellore & Chennai to help with FFCS course registrations.
